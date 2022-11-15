@@ -1,4 +1,22 @@
 # CANSAT
+
+
+## Tabla of Content
+* [About us](#About-us)
+* [INTRODUCTION](#iINTRODUCTION)
+* [POWER SYSTEM](#POWER-SYSTEM)
+* [GROUND STATION](#GROUND-STATION)
+* [TECHNOLOGIES](#TECHNOLOGIES)
+
+
+
+
+
+
+
+
+
+# About us
 We are the team AATHREYA from Anurag University ,
 Hyderabad , Telangana , INDIA . Our motto is to build a CANSAT with the
 objectives given by WCRC SERBIA . We are a batch of 5 members who are
@@ -65,7 +83,7 @@ connected with an On-Board Computer (OBC) in the Cansat. Ra-02 RF receiver is
 connected to a Personal Computer via Universal Serial Port (USB). Ra-02 RF
 receiver board communicates with computer serially. The data is received by the
 Ground Station software as a string.
-TECHNOLOGIES :
+# TECHNOLOGIES :
 Project is created with:
 • numpy==1.22.4
 • matplotlib
