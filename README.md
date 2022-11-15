@@ -1,7 +1,7 @@
 # CANSAT
 
 
-## Tabla of Content
+## Table of Content
 * [About us](#About-us)
 * [INTRODUCTION](#INTRODUCTION)
 * [POWER SYSTEM](#POWER-SYSTEM)
