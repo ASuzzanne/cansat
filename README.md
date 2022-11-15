@@ -53,7 +53,7 @@ descenting down the can must be able to read the real time data and analyse the
 data for every two seconds and transmit to the ground station .
 
 
-# POWER SYSTEM :
+# POWER SYSTEM 
 The Arduino nano and all the other components except the LoRa Ra – 02 RF
 module works on 5V where as the LoRa works on 3.3V . Hence the power supply
 from battery was first given to boost and buck converters through battery to all
@@ -66,7 +66,7 @@ DHT 11 – Measures the humidity and temperature .
 LoRa Ra – 02 – Transmits and receives the data while descenting in the longer
 distances
 
-# GROUND STATION :
+# GROUND STATION 
 The main purpose of Ground-Station software is to visualize and observe how the
 sensors’ values are changing in real-time, during descend of CanSat. Previously,
 freeware – Terminal software tool was used to display and log the received
@@ -83,7 +83,7 @@ connected with an On-Board Computer (OBC) in the Cansat. Ra-02 RF receiver is
 connected to a Personal Computer via Universal Serial Port (USB). Ra-02 RF
 receiver board communicates with computer serially. The data is received by the
 Ground Station software as a string.
-# TECHNOLOGIES :
+# TECHNOLOGIES 
 Project is created with:
 • numpy==1.22.4
 • matplotlib
