@@ -1,4 +1,4 @@
-#CANSAT
+# CANSAT
 We are the team AATHREYA from Anurag University ,
 Hyderabad , Telangana , INDIA . Our motto is to build a CANSAT with the
 objectives given by WCRC SERBIA . We are a batch of 5 members who are
@@ -17,7 +17,7 @@ measures the required parameters and gives the data . This phenomenon was
 carried away by the team Aathreya with many no.of trails. The team was
 succeded in implementing the launch precisely .
 
-#INTRODUCTION
+# INTRODUCTION
  The main objective of the cansat is that using all the required
 subsystems , the limitations made by wcrc must be satisfied . Therefore the
 primary mission of the Aathreya’s cansat is that , as the cansat when inserted in
